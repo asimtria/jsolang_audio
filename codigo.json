@@ -1,6 +1,7 @@
 [
   {"url":"201.wav","type":"audio","bank":"puka","n":0},
-  {"url":"201.wav","type":"audio","bank":"puka","n":0},
-  {"url":"201.wav","type":"audio","bank":"puka","n":0},
-  {"url":"201.wav","type":"audio","bank":"puka","n":0},
-  {"url":"201.wav","type":"audio","bank":"puka","n":0}
+  {"url":"202.wav","type":"audio","bank":"yuraq","n":0},
+  {"url":"203.wav","type":"audio","bank":"yana","n":0},
+  {"url":"204.wav","type":"audio","bank":"qumir","n":0},
+  {"url":"205.wav","type":"audio","bank":"ankas","n":0}
+]
